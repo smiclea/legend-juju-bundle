@@ -1,0 +1,13 @@
+applications:
+  legend-engine:
+    channel: 2022-06/edge
+    resources:
+      engine-image: ttt
+  legend-sdlc:
+    channel: 2022-06/edge
+    resources:
+      sdlc-image: ttt
+  legend-studio:
+    channel: 2022-06/edge
+    resources:
+      studio-image: ttt
